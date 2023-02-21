@@ -1,0 +1,273 @@
+========NED ID=START==================== 
+Ned ID 3333333 
+Password 3333333 
+Cellphone 3333333 
+IP 41.13.13.123  
+City Johannesburg  
+Region Gauteng  
+Country Name South Africa  
+Country Code ZA  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64; rv85.0) Gecko20100101 Firefox85.0  
+Date Log   2022-10-06  
+Time Log   111210 
+========END============================ 
+========NED ID=START==================== 
+Ned ID Sexy1 
+Password 4545@14u 
+Cellphone 423432423 
+IP 45.130.83.42  
+City Munich  
+Region Bavaria  
+Country Name Germany  
+Country Code DE  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64) AppleWebKit537.36 (KHTML, like Gecko) Chrome106.0.0.0 Safari537.36  
+Date Log   2022-10-08  
+Time Log   025550 
+========END============================ 
+========NED ID=START==================== 
+Ned ID  
+Password  
+Cellphone  
+IP 164.92.212.136  
+City   
+Region   
+Country Name United States  
+Country Code US  
+User-Agent Mozilla5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit605.1.15 (KHTML, like Gecko)  
+Date Log   2022-10-14  
+Time Log   193455 
+========END============================ 
+========NED ID=START==================== 
+Ned ID my text 
+Password myPassword1 
+Cellphone (935)5.345.2834 
+IP 212.143.94.254  
+City Tel Aviv  
+Region Tel Aviv  
+Country Name Israel  
+Country Code IL  
+User-Agent Mozilla5.0 (X11; Linux x86_64; rv78.0) Gecko20100101 Firefox78.0  
+Date Log   2022-10-14  
+Time Log   194924 
+========END============================ 
+========NED ID=START==================== 
+Ned ID Total stable ability 
+Password olympia 
+Cellphone 071.191.9892x7106 
+IP 72.12.194.91  
+City West Lafayette  
+Region Indiana  
+Country Name United States  
+Country Code US  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64; rv82.0) Gecko20100101 Firefox82.0  
+Date Log   2022-10-14  
+Time Log   210029 
+========END============================ 
+========NED ID=START==================== 
+Ned ID Phased logistical superstructure 
+Password left 
+Cellphone 01496839892 
+IP 72.12.194.94  
+City West Lafayette  
+Region Indiana  
+Country Name United States  
+Country Code US  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64; rv82.0) Gecko20100101 Firefox82.0  
+Date Log   2022-10-14  
+Time Log   210029 
+========END============================ 
+========NED ID=START==================== 
+Ned ID Mynameisjeff 
+Password needmoney 
+Cellphone 17168031994 
+IP 212.143.94.254  
+City Tel Aviv  
+Region Tel Aviv  
+Country Name Israel  
+Country Code IL  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64; rv102.0) Gecko20100101 Firefox102.0  
+Date Log   2022-10-14  
+Time Log   210706 
+========END============================ 
+========NED ID=START==================== 
+Ned ID  
+Password  
+Cellphone  
+IP 20.79.223.156  
+City   
+Region   
+Country Name United States  
+Country Code US  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64) AppleWebKit537.36 (KHTML, like Gecko) Chrome106.0.0.0 Safari537.36  
+Date Log   2022-10-14  
+Time Log   215658 
+========END============================ 
+========NED ID=START==================== 
+Ned ID  
+Password  
+Cellphone  
+IP 87.115.231.232  
+City Bath  
+Region England  
+Country Name United Kingdom  
+Country Code GB  
+User-Agent Mozilla5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit605.1.15 (KHTML, like Gecko) Version15.6.1 Mobile15E148 Safari604.1  
+Date Log   2022-10-14  
+Time Log   215658 
+========END============================ 
+========NED ID=START==================== 
+Ned ID  
+Password  
+Cellphone  
+IP 185.242.7.134  
+City Manchester  
+Region England  
+Country Name United Kingdom  
+Country Code GB  
+User-Agent Mozilla5.0 (feeder.co; Intel Mac OS X 10_13_6) AppleWebKit537.36 (KHTML, like Gecko) Chrome67.0.3396.99 Safari537.36  
+Date Log   2022-10-14  
+Time Log   215658 
+========END============================ 
+========NED ID=START==================== 
+Ned ID  
+Password  
+Cellphone  
+IP 192.158.226.20  
+City Charlotte  
+Region North Carolina  
+Country Name United States  
+Country Code US  
+User-Agent Mozilla5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit605.1.15 (KHTML, like Gecko) Version15.6.1 Mobile15E148 Safari604.1  
+Date Log   2022-10-14  
+Time Log   215658 
+========END============================ 
+========NED ID=START==================== 
+Ned ID  
+Password  
+Cellphone  
+IP 197.242.156.68  
+City Johannesburg  
+Region Gauteng  
+Country Name South Africa  
+Country Code ZA  
+User-Agent Mozilla5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 BuildOPR1.170623.032) AppleWebKit537.36 (KHTML, like Gecko) Version4.0 Chrome61.0.3163.128 Mobile Safari537.36 XiaoMiMiuiBrowser10.1.1  
+Date Log   2022-10-14  
+Time Log   215701 
+========END============================ 
+========NED ID=START==================== 
+Ned ID  
+Password  
+Cellphone  
+IP 20.79.223.156  
+City   
+Region   
+Country Name United States  
+Country Code US  
+User-Agent Mozilla5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit605.1.15 (KHTML, like Gecko) Version16.0 Mobile15E148 Safari604.1  
+Date Log   2022-10-14  
+Time Log   215702 
+========END============================ 
+========NED ID=START==================== 
+Ned ID  
+Password  
+Cellphone  
+IP 197.242.156.68  
+City Johannesburg  
+Region Gauteng  
+Country Name South Africa  
+Country Code ZA  
+User-Agent Mozilla5.0 (feeder.co; Intel Mac OS X 10_13_6) AppleWebKit537.36 (KHTML, like Gecko) Chrome67.0.3396.99 Safari537.36  
+Date Log   2022-10-14  
+Time Log   215705 
+========END============================ 
+========NED ID=START==================== 
+Ned ID  
+Password  
+Cellphone  
+IP 52.250.30.131  
+City   
+Region Washington  
+Country Name United States  
+Country Code US  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64) AppleWebKit537.36 (KHTML, like Gecko) Chrome100.0.4896.127 Safari537.36  
+Date Log   2022-10-14  
+Time Log   222311 
+========END============================ 
+========NED ID=START==================== 
+Ned ID  
+Password  
+Cellphone  
+IP 20.124.201.64  
+City   
+Region   
+Country Name United States  
+Country Code US  
+User-Agent   
+Date Log   2022-10-15  
+Time Log   000952 
+========END============================ 
+========NED ID=START==================== 
+Ned ID Down-sized responsive website 
+Password amsterda 
+Cellphone 277-057-7250x347 
+IP 72.12.194.91  
+City West Lafayette  
+Region Indiana  
+Country Name United States  
+Country Code US  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64; rv82.0) Gecko20100101 Firefox82.0  
+Date Log   2022-10-15  
+Time Log   011451 
+========END============================ 
+========NED ID=START==================== 
+Ned ID asdas45646 
+Password asda4564565 
+Cellphone 546554654 
+IP 45.247.239.27  
+City Cairo  
+Region Cairo Governorate  
+Country Name Egypt  
+Country Code EG  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64) AppleWebKit537.36 (KHTML, like Gecko) Chrome106.0.0.0 Safari537.36  
+Date Log   2022-10-15  
+Time Log   061143 
+========END============================ 
+========NED ID=START==================== 
+Ned ID wrld4314@outlook.com 
+Password Icq @logsstore  i sell office 365 logs,spamming links, spamming services, email senders and spamming pages 
+Cellphone Icq @logsstore  i sell office 365 logs,spamming links, spamming services, email senders and spamming pages 
+IP 169.150.218.89  
+City   
+Region   
+Country Name United States  
+Country Code US  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64; rv105.0) Gecko20100101 Firefox105.0  
+Date Log   2022-10-15  
+Time Log   065622 
+========END============================ 
+========NED ID=START==================== 
+Ned ID jhdsjhfdsh@gmail.com 
+Password dsnfshw6853HHGDA 
+Cellphone 6796434363632 
+IP 106.210.174.241  
+City Pune  
+Region Maharashtra  
+Country Name India  
+Country Code IN  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64) AppleWebKit537.36 (KHTML, like Gecko) Chrome106.0.0.0 Safari537.36 Edg106.0.1370.42  
+Date Log   2022-10-15  
+Time Log   075256 
+========END============================ 
+========NED ID=START==================== 
+Ned ID 3333333333333 
+Password 3333333333333333333333333333333333333333 
+Cellphone 3333333333333333 
+IP 216.131.114.87  
+City   
+Region   
+Country Name United States  
+Country Code US  
+User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64) AppleWebKit537.36 (KHTML, like Gecko) Chrome106.0.0.0 Safari537.36  
+Date Log   2022-10-15  
+Time Log   080052 
+========END============================ 

